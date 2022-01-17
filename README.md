@@ -1,7 +1,7 @@
 ## Ajay Krishnamurthy
 Hi, I’m @avkrishnamurthy
-- I’m interested in all things sports, robotics, and data science
-- I’m currently at Chapel Hill High School and plan to major in computer science
+- I’m interested in all things sports, software engineering, and data science
+- I’m currently at Duke University and majoring in computer science
 - Email: ajayvkrishnamurthy@gmail.com
 
 <!---
