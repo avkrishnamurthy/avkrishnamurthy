@@ -1,7 +1,7 @@
 ## Ajay Krishnamurthy
 Hi, I’m @avkrishnamurthy
 - I’m interested in all things sports, software engineering, and data science
-- I’m currently at Duke University and majoring in computer science and statistics.
+- I’m currently at Duke University and majoring in computer science and mathematics.
 - Email: ajay.k@duke.edu
 
 <!---
